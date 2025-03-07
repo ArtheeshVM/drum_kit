@@ -14,7 +14,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/drum-kit.git
+git clone https://github.com/ArtheeshVM/drum-kit.git
 Open index.html in your browser.
 Click on the buttons or press the corresponding keys to play drum sounds!
 ❤️ Made with Love
